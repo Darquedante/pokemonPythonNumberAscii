@@ -66,8 +66,9 @@ if pokeball == 4:
  print("           w w            ")
  
  
- 
- 
+ if pokeball == 5:
+   print("CONGRADULATIONS! " + name +" got a Venasuar")
+
  
  
  
