@@ -1,4 +1,9 @@
 """
+I need to have my son get back to this it was so much
+fun watching him come up with this idea
+"""
+
+"""
 This is a Project by G-Man.
 The Project name is " Pokemon! "
 """
